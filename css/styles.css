@@ -1,0 +1,35 @@
+.gradient-primary {
+    background: linear-gradient(45deg, #FFDE59, #FF914D);
+}
+
+.gradient-secondary {
+    background: linear-gradient(45deg, #6c757d, #adb5bd);
+}
+
+.gradient-success {
+    background: linear-gradient(45deg, #28a745, #218838);
+}
+
+.gradient-danger {
+    background: linear-gradient(45deg, #dc3545, #c82333);
+}
+
+.gradient-warning {
+    background: linear-gradient(45deg, #ffc107, #e0a800);
+}
+
+.gradient-info {
+    background: linear-gradient(45deg, #17a2b8, #138496);
+}
+
+.gradient-light {
+    background: linear-gradient(45deg, #f8f9fa, #e2e6ea);
+}
+
+.gradient-dark {
+    background: linear-gradient(45deg, #343a40, #23272b);
+}
+
+.container{
+    margin: 0;
+}
